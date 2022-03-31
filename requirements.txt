@@ -1,0 +1,12 @@
+fastapi
+bson
+pymysql
+fastapi-redis-cache
+request
+aiomysql
+python-dotenv
+pathlib
+pyjwt
+passlib
+bcrypt
+pydantic
